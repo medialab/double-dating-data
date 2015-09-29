@@ -1,0 +1,16 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Mathieu Jacomy -- Website designer & coder -- @jacomyma
+
+# THANKS
+
+    Eva Bellinghausen
+    Patrice Mitrano
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
