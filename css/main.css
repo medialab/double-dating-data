@@ -17,8 +17,42 @@ h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small
   color: #999;
 }
 
+p {
+  font-size: 1.2em;
+}
+p.negative {
+  color: #EEE;
+}
+
 .splogo {
   width: 20%;
+}
+
+.big-number {
+  font-weight: 900;
+  font-size: 12em;
+  color: #000;
+  text-align: right;
+}
+.big-number.negative {
+  color: #FFF;
+}
+
+.section-title {
+  color: #000;
+  font-size: 3em;
+  font-weight: 400;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+.section-title.negative {
+  color: #FFF;
+}
+
+.vitrine-thumbnail {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
 }
 
 /* Splash image */
@@ -161,14 +195,14 @@ div.splash-title{
 
 /* Spacers */
 .spacer-post-splash {
-  height: 300px;
+  height: 100px;
 }
 
 
 /* Part 1 */
 .transition-to-part1 {
-  background-color: #F00;
-  height: 100px;
+  margin-left: -15px;
+  margin-right: -15px;
 }
 .part1 {
   background-color: #000;

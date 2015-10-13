@@ -10,5 +10,5 @@ angular.module('gephiPluginsFront.home', ['ngRoute'])
 }])
 
 .controller('HomeController', function($scope, $location) {
-
+  
 });
