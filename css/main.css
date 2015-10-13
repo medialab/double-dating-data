@@ -10,17 +10,39 @@ body{
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  /*font-family: 'Hind';*/
+  color: #666;
+}
+h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
+  font-weight: 300;
   color: #999;
 }
 
+.splogo {
+  width: 20%;
+}
 
-@import url();
+/* Splash image */
+
+.splash-image{
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin-top: -60px;
+  margin-left: -120px;
+}
+.splash-image img{
+  opacity: 0.6;
+}
+
+
+/* Splash letters */
+
 *, *:before, *:after{
   box-sizing:border-box;
 }
 div.splash-title{
   margin: 0 auto;
+  margin-left: -10px;
   text-align: left;
   font-weight: 900
 }
@@ -137,3 +159,17 @@ div.splash-title{
 }
 
 
+/* Spacers */
+.spacer-post-splash {
+  height: 300px;
+}
+
+
+/* Part 1 */
+.transition-to-part1 {
+  background-color: #F00;
+  height: 100px;
+}
+.part1 {
+  background-color: #000;
+}
