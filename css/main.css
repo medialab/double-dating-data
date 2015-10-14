@@ -10,7 +10,6 @@ body{
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
-  color: #666;
 }
 h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, .h1 small, .h2 small, .h3 small, .h4 small, .h5 small, .h6 small, h1 .small, h2 .small, h3 .small, h4 .small, h5 .small, h6 .small, .h1 .small, .h2 .small, .h3 .small, .h4 .small, .h5 .small, .h6 .small {
   font-weight: 300;
@@ -55,6 +54,10 @@ p.negative {
   object-fit: cover;
 }
 
+.header-text {
+  text-shadow: -2px -2px 1px #fff, 2px -2px 1px #fff, -2px 2px 1px #fff, 2px 2px 1px #fff
+}
+
 /* Splash image */
 
 .splash-image{
@@ -91,57 +94,62 @@ div.splash-title{
   color: transparent;
   background: url("../img/fuller_crop_a.jpg") repeat;
   -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
   transform-style: preserve-3d;
   perspective: 400;
   z-index: 1;
 }
+@media (max-width: 1000px) {
+  .letter{
+    font-size: 6em;
+  }
+}
 .letter.variant_a{
   background: url("../img/fuller_crop_a.jpg") repeat;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
 }
 .letter.variant_b{
   background: url("../img/fuller_crop_b.jpg") repeat;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
 }
 .letter.variant_c{
   background: url("../img/fuller_crop_c.jpg") repeat;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
 }
 .letter.variant_d{
   background: url("../img/fuller_crop_d.jpg") repeat;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
 }
 .letter.variant_e{
   background: url("../img/fuller_crop_e.jpg") repeat;
-    -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
   -webkit-background-clip: text;
 
 }
@@ -199,11 +207,99 @@ div.splash-title{
 }
 
 
-/* Part 1 */
+/* Parts */
 .transition-to-part1 {
   margin-left: -15px;
   margin-right: -15px;
 }
 .part1 {
   background-color: #000;
+}
+.transition-to-part2 {
+  margin-top: 300px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.part2 {
+  background-color: #000;
+}
+.transition-to-part3 {
+  margin-top: 200px;
+  margin-left: -15px;
+  margin-right: -15px;
+}
+.part3 {
+  background-color: #000;
+}
+
+
+/* Info points */
+.infopoint-container {
+  font-size: 1.2em;
+  font-weight: 300;
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: 0.4s;
+     -moz-transition-duration: 0.4s;
+       -o-transition-duration: 0.4s;
+          transition-duration: 0.4s;
+  -webkit-transition-timing-function: ease-in;
+     -moz-transition-timing-function: ease-in;
+       -o-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+}
+
+.infopoint-container.past{
+  opacity: 0.5;
+}
+.infopoint-container.present{
+  opacity: 1;
+}
+.infopoint-container.future{
+  opacity: 1;
+}
+.infopoint-container h3 {
+  font-size:  1.6em;
+}
+.infopoint-content {
+  overflow: hidden;
+  margin-bottom: 30px;
+  -webkit-transition-property: max-height;
+     -moz-transition-property: max-height;
+       -o-transition-property: max-height;
+          transition-property: max-height;
+  -webkit-transition-duration: .6s;
+     -moz-transition-duration: .6s;
+       -o-transition-duration: .6s;
+          transition-duration: .6s;
+  -webkit-transition-timing-function: ease-in;
+     -moz-transition-timing-function: ease-in;
+       -o-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+}
+.infopoint-container.past .infopoint-content{
+  max-height: 300px;
+}
+.infopoint-container.present .infopoint-content{
+  max-height: 300px;
+}
+.infopoint-container.future .infopoint-content{
+  max-height: 0;
+}
+
+/* footer */
+footer {
+  color: #FFF;
+  background-color: #000;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: -15px;
+  text-align: center;
+  padding: 15px;
+  padding-bottom: 500px;
+}
+footer a{
+  color: #FFF;
 }

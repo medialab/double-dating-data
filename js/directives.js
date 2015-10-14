@@ -16,10 +16,10 @@ angular.module('gephiPluginsFront.directives', [])
       restrict: 'E'
     , scope: {
         title: '='
+      , template: '='
       }
     , templateUrl: 'partials/infopoint.html'
-    , link: function($scope, el, attrs) {
-        $scope.content = "gaga"
+    , link: function(scope, el, attrs) {
         
       }
     }
