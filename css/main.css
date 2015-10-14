@@ -288,3 +288,8 @@ div.splash-title{
 .infopoint-container.future .infopoint-content{
   max-height: 0;
 }
+
+/* footer */
+footer {
+  margin-top: 1000px;
+}
