@@ -291,5 +291,15 @@ div.splash-title{
 
 /* footer */
 footer {
-  margin-top: 1000px;
+  color: #FFF;
+  background-color: #000;
+  margin-left: -15px;
+  margin-right: -15px;
+  margin-bottom: -15px;
+  text-align: center;
+  padding: 15px;
+  padding-bottom: 500px;
+}
+footer a{
+  color: #FFF;
 }
