@@ -20,6 +20,7 @@ angular.module('gephiPluginsFront.directives', [])
       }
     , templateUrl: 'partials/infopoint.html'
     , link: function(scope, el, attrs) {
+        
       }
     }
   }])
