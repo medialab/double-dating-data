@@ -54,6 +54,10 @@ p.negative {
   object-fit: cover;
 }
 
+.header-text {
+  text-shadow: -2px -2px 1px #fff, 2px -2px 1px #fff, -2px 2px 1px #fff, 2px 2px 1px #fff
+}
+
 /* Splash image */
 
 .splash-image{
@@ -98,6 +102,11 @@ div.splash-title{
   transform-style: preserve-3d;
   perspective: 400;
   z-index: 1;
+}
+@media (max-width: 1000px) {
+  .letter{
+    font-size: 6em;
+  }
 }
 .letter.variant_a{
   background: url("../img/fuller_crop_a.jpg") repeat;
