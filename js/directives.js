@@ -10,3 +10,17 @@ angular.module('gephiPluginsFront.directives', [])
     , templateUrl: 'partials/navbar.html'
     }
   }])
+
+  .directive('infopoint', [function(){
+    return {
+      restrict: 'E'
+    , scope: {
+        title: '='
+      }
+    , templateUrl: 'partials/infopoint.html'
+    , link: function($scope, el, attrs) {
+        $scope.content = "gaga"
+        
+      }
+    }
+  }])
