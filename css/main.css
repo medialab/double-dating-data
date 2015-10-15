@@ -91,12 +91,11 @@ div.splash-title{
   line-height: 1.0em;
   position: relative;
 
-  color: transparent;
-  background: url("../img/fuller_crop_a.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  color: #184660;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_a.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
 
   transform-style: preserve-3d;
@@ -108,50 +107,46 @@ div.splash-title{
     font-size: 6em;
   }
 }
-.letter.variant_a{
-  background: url("../img/fuller_crop_a.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
 
+.letter.variant_a{
+  color: #184660;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_a.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
+  -webkit-background-clip: text;
 }
 .letter.variant_b{
-  background: url("../img/fuller_crop_b.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  color: #5f8741;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_b.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
-
 }
 .letter.variant_c{
-  background: url("../img/fuller_crop_c.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  color: #0e3b52;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_c.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
-
 }
 .letter.variant_d{
-  background: url("../img/fuller_crop_d.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  color: #426c54;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_d.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
-
 }
 .letter.variant_e{
-  background: url("../img/fuller_crop_e.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
+  color: #374e5c;
+  -webkit-text-fill-color: transparent;
+  background: -webkit-linear-gradient(transparent, transparent),
+             url('../img/fuller_crop_e.jpg') repeat;
+  background: -o-linear-gradient(transparent, transparent);
   -webkit-background-clip: text;
-
 }
 .letter:before, .letter:after{
   position:absolute;
