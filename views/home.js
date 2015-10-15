@@ -13,7 +13,7 @@ angular.module('gephiPluginsFront.home', ['ngRoute'])
 
   // Chrome-specific test
   var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
-  console.log(navigator.userAgent.toLowerCase())
+
   if (is_chrome) {
     $('.letter')
       .css('color', 'transparent')
@@ -34,6 +34,50 @@ angular.module('gephiPluginsFront.home', ['ngRoute'])
   }
 
   $( window ).scroll(function() {
+
+    // Display floating info
+
+    var opacity = 0
+      , text = $('.floatingInfo').html()
+
+    $('.transition-image').each( function(i, e) {
+
+      var container = $(e)
+ 
+      if ( container.length > 0 ) {
+
+        var scrollToTop = container.offset().top - $( window ).scrollTop()
+          , source = -0.2 * container.height()
+          , target = 200 - container.height()
+          , percent = ( scrollToTop - source ) / ( target - source )
+        
+        if ( scrollToTop < source && scrollToTop > target ) {
+
+          opacity = Math.max(opacity, 1)
+          
+          if ( container.hasClass('transition-to-part1') ) {
+            text = 'Du Mexique à Los Angeles,<br>trajet suggéré<br>par Google Maps'
+          }
+
+          if ( container.hasClass('transition-to-part2') ) {
+            text = 'Scénarios d\'évolution<br>de la température globale<br>en fonction des émissions<br>de CO2'
+          }
+
+          if ( container.hasClass('transition-to-part3') ) {
+            text = 'L\'ours polaire,<br>icône populaire<br>du réchauffement climatique'
+          }
+
+        }
+      }
+
+    })
+
+    $('.floatingInfo')
+      .css('opacity', opacity)
+      .html(text)
+
+
+    // Unfold text
 
     var open = false
     
