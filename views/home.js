@@ -90,7 +90,7 @@ angular.module('gephiPluginsFront.home', ['ngRoute'])
         var scrollToTop = container.offset().top - $( window ).scrollTop()
           , scrollPercent = 100 * scrollToTop / $( window ).height()
         
-        if ( scrollToTop < 100 ) {
+        if ( scrollToTop < 10 ) {
         
           container
             .addClass('past')
