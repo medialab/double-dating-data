@@ -92,11 +92,13 @@ div.splash-title{
   position: relative;
 
   color: #184660;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_a.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
+
+/* 
+  color: transparent;
+  background: url("../img/fuller_crop_a.jpg") repeat;
+  -webkit-background-size: cover;
   -webkit-background-clip: text;
+*/
 
   transform-style: preserve-3d;
   perspective: 400;
@@ -110,43 +112,18 @@ div.splash-title{
 
 .letter.variant_a{
   color: #184660;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_a.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 }
 .letter.variant_b{
   color: #5f8741;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_b.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 }
 .letter.variant_c{
   color: #0e3b52;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_c.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 }
 .letter.variant_d{
   color: #426c54;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_d.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 }
 .letter.variant_e{
   color: #374e5c;
-  -webkit-text-fill-color: transparent;
-  background: -webkit-linear-gradient(transparent, transparent),
-             url('../img/fuller_crop_e.jpg') repeat;
-  background: -o-linear-gradient(transparent, transparent);
-  -webkit-background-clip: text;
 }
 .letter:before, .letter:after{
   position:absolute;
