@@ -91,13 +91,14 @@ div.splash-title{
   line-height: 1.0em;
   position: relative;
 
+  color: #184660;
+
+/* 
   color: transparent;
   background: url("../img/fuller_crop_a.jpg") repeat;
   -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
   -webkit-background-clip: text;
+*/
 
   transform-style: preserve-3d;
   perspective: 400;
@@ -108,50 +109,21 @@ div.splash-title{
     font-size: 6em;
   }
 }
-.letter.variant_a{
-  background: url("../img/fuller_crop_a.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
 
+.letter.variant_a{
+  color: #184660;
 }
 .letter.variant_b{
-  background: url("../img/fuller_crop_b.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
-
+  color: #5f8741;
 }
 .letter.variant_c{
-  background: url("../img/fuller_crop_c.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
-
+  color: #0e3b52;
 }
 .letter.variant_d{
-  background: url("../img/fuller_crop_d.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
-
+  color: #426c54;
 }
 .letter.variant_e{
-  background: url("../img/fuller_crop_e.jpg") repeat;
-  -webkit-background-size: cover;
-     -moz-background-size: cover;
-       -o-background-size: cover;
-          background-size: cover;
-  -webkit-background-clip: text;
-
+  color: #374e5c;
 }
 .letter:before, .letter:after{
   position:absolute;
@@ -302,4 +274,46 @@ footer {
 }
 footer a{
   color: #FFF;
+}
+
+/* Floating info */
+.floatingInfo {
+  position: fixed;
+  /*height: 60px;*/
+  width: 200px;
+  background-color: #FFF;
+  top: 100px;
+  left: 0;
+
+  padding: 15px;
+  color: #999;
+  opacity: 0;
+
+  -webkit-transition-property: opacity;
+     -moz-transition-property: opacity;
+       -o-transition-property: opacity;
+          transition-property: opacity;
+  -webkit-transition-duration: .6s;
+     -moz-transition-duration: .6s;
+       -o-transition-duration: .6s;
+          transition-duration: .6s;
+  -webkit-transition-timing-function: ease-in;
+     -moz-transition-timing-function: ease-in;
+       -o-transition-timing-function: ease-in;
+          transition-timing-function: ease-in;
+
+  z-index: 10;
+  -webkit-border-radius: inherit;
+  -webkit-background-clip: padding-box;
+  -moz-border-radius: inherit;
+  -moz-background-clip: padding;
+  border-radius: inherit;
+  background-clip: padding-box;
+  pointer-events: none;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
 }
