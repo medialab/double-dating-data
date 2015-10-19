@@ -1,0 +1,744 @@
+id,symbol,Country Group (INFO),country_id,Country (INFO)
+1,NA,Non Available,1,N/A
+2,WMONA,Non Available,1,N/A
+8,AG,African Group,3,Algeria
+9,DgE,Developing Economies,3,Algeria
+10,G77,G77,3,Algeria
+11,NA1,Non-Annex I,3,Algeria
+12,OPEC,Organization of the Petroleum Exporting Countries,3,Algeria
+13,LAS,League of Arab States,3,Algeria
+14,AFR,Africa,3,Algeria
+15,GRULAC,Latin American and Caribbean Group,4,Antigua and Barbuda
+16,DgE,Developing Economies,4,Antigua and Barbuda
+17,G77,G77,4,Antigua and Barbuda
+18,NA1,Non-Annex I,4,Antigua and Barbuda
+19,AOSIS,Alliance of Small Island States,4,Antigua and Barbuda
+20,ALBA,Bolivarian Alliance for the Peoples of our America,4,Antigua and Barbuda
+21,NAC,"North America, Central America and the Caribbean",4,Antigua and Barbuda
+22,GRULAC,Latin American and Caribbean Group,5,Argentina
+23,DgE,Developing Economies,5,Argentina
+24,G20,G20,5,Argentina
+25,G77,G77,5,Argentina
+26,NA1,Non-Annex I,5,Argentina
+27,CfRN,Coalition of Rainforest Nations,5,Argentina
+28,SAM,South America,5,Argentina
+29,WEOG,Western Europe and Other States Group,6,Australia
+30,DdC,Developed Countries,6,Australia
+31,OCDE,OECD,6,Australia
+32,G20,G20,6,Australia
+33,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,6,Australia
+34,A1,Annex I,6,Australia
+35,UG,Umbrella Group,6,Australia
+36,SWP,South-West Pacific,6,Australia
+37,WEOG,Western Europe and Other States Group,7,Austria
+38,DdC,Developed Countries,7,Austria
+39,OCDE,OECD,7,Austria
+40,A1,Annex I,7,Austria
+41,EU,European Union,7,Austria
+42,EUR,Europe,7,Austria
+43,APG,Asian-Pacific Group,8,Bangladesh
+44,DgE,Developing Economies,8,Bangladesh
+45,G77,G77,8,Bangladesh
+46,NA1,Non-Annex I,8,Bangladesh
+47,LDCs,NULL,8,Bangladesh
+48,CfRN,Coalition of Rainforest Nations,8,Bangladesh
+49,ASI,Asia,8,Bangladesh
+50,GRULAC,Latin American and Caribbean Group,9,Barbados
+51,DgE,Developing Economies,9,Barbados
+52,G77,G77,9,Barbados
+53,NA1,Non-Annex I,9,Barbados
+54,AOSIS,Alliance of Small Island States,9,Barbados
+55,NAC,"North America, Central America and the Caribbean",9,Barbados
+56,WEOG,Western Europe and Other States Group,10,Belgium
+57,DdC,Developed Countries,10,Belgium
+58,OCDE,OECD,10,Belgium
+59,A1,Annex I,10,Belgium
+60,EU,European Union,10,Belgium
+61,OIF,Organisation Internationale de la Francophonie,10,Belgium
+62,EUR,Europe,10,Belgium
+63,GRULAC,Latin American and Caribbean Group,11,Belize
+64,G77,G77,11,Belize
+65,NA1,Non-Annex I,11,Belize
+66,AOSIS,Alliance of Small Island States,11,Belize
+67,CfRN,Coalition of Rainforest Nations,11,Belize
+68,NAC,"North America, Central America and the Caribbean",11,Belize
+69,AG,African Group,12,Benin
+70,G77,G77,12,Benin
+71,NA1,Non-Annex I,12,Benin
+72,LDCs,NULL,12,Benin
+73,OIF,Organisation Internationale de la Francophonie,12,Benin
+74,AFR,Africa,12,Benin
+75,GRULAC,Latin American and Caribbean Group,13,Bermuda
+76,NAC,"North America, Central America and the Caribbean",13,Bermuda
+77,GRULAC,Latin American and Caribbean Group,14,Bolivia
+78,DgE,Developing Economies,14,Bolivia
+79,G77,G77,14,Bolivia
+80,NA1,Non-Annex I,14,Bolivia
+81,ALBA,Bolivarian Alliance for the Peoples of our America,14,Bolivia
+82,SAM,South America,14,Bolivia
+83,AG,African Group,15,Botswana
+84,DgE,Developing Economies,15,Botswana
+85,G77,G77,15,Botswana
+86,NA1,Non-Annex I,15,Botswana
+87,AFR,Africa,15,Botswana
+88,GRULAC,Latin American and Caribbean Group,16,Brazil
+89,DgE,Developing Economies,16,Brazil
+90,BRICS,BRICS,16,Brazil
+91,G20,G20,16,Brazil
+92,G77,G77,16,Brazil
+93,NA1,Non-Annex I,16,Brazil
+94,SAM,South America,16,Brazil
+95,EEG,Eastern European Group,17,Bulgaria
+96,DdC,Developed Countries,17,Bulgaria
+97,A1,Annex I,17,Bulgaria
+98,EU,European Union,17,Bulgaria
+99,OIF,Organisation Internationale de la Francophonie,17,Bulgaria
+100,EUR,Europe,17,Bulgaria
+101,APG,Asian-Pacific Group,18,Cambodia
+102,G77,G77,18,Cambodia
+103,NA1,Non-Annex I,18,Cambodia
+104,LDCs,NULL,18,Cambodia
+105,OIF,Organisation Internationale de la Francophonie,18,Cambodia
+106,ASI,Asia,18,Cambodia
+107,AG,African Group,19,Cameroon
+108,AFR,Africa,19,Cameroon
+109,WEOG,Western Europe and Other States Group,20,Canada
+110,DdC,Developed Countries,20,Canada
+111,OCDE,OECD,20,Canada
+112,G8,G8,20,Canada
+113,G20,G20,20,Canada
+114,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,20,Canada
+115,A1,Annex I,20,Canada
+116,UG,Umbrella Group,20,Canada
+117,OIF,Organisation Internationale de la Francophonie,20,Canada
+118,NAC,"North America, Central America and the Caribbean",20,Canada
+119,AG,African Group,21,Chad
+120,DgE,Developing Economies,21,Chad
+121,G77,G77,21,Chad
+122,NA1,Non-Annex I,21,Chad
+123,LDCs,NULL,21,Chad
+124,OIF,Organisation Internationale de la Francophonie,21,Chad
+125,AFR,Africa,21,Chad
+126,GRULAC,Latin American and Caribbean Group,22,Chile
+127,DgE,Developing Economies,22,Chile
+128,OCDE,OECD,22,Chile
+129,G77,G77,22,Chile
+130,NA1,Non-Annex I,22,Chile
+131,CfRN,Coalition of Rainforest Nations,22,Chile
+132,AILAC,Alliance of Latin America and the Caribbean,22,Chile
+133,SAM,South America,22,Chile
+134,APG,Asian-Pacific Group,23,China
+135,DgE,Developing Economies,23,China
+136,BRICS,BRICS,23,China
+137,G20,G20,23,China
+138,G77,G77,23,China
+139,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,23,China
+140,NA1,Non-Annex I,23,China
+141,ASI,Asia,23,China
+142,GRULAC,Latin American and Caribbean Group,24,Colombia
+143,DgE,Developing Economies,24,Colombia
+144,G77,G77,24,Colombia
+145,NA1,Non-Annex I,24,Colombia
+146,AILAC,Alliance of Latin America and the Caribbean,24,Colombia
+147,SAM,South America,24,Colombia
+148,GRULAC,Latin American and Caribbean Group,25,Costa Rica
+149,DgE,Developing Economies,25,Costa Rica
+150,G77,G77,25,Costa Rica
+151,NA1,Non-Annex I,25,Costa Rica
+152,CfRN,Coalition of Rainforest Nations,25,Costa Rica
+153,AILAC,Alliance of Latin America and the Caribbean,25,Costa Rica
+154,NAC,"North America, Central America and the Caribbean",25,Costa Rica
+155,GRULAC,Latin American and Caribbean Group,26,Cuba
+156,DgE,Developing Economies,26,Cuba
+157,G77,G77,26,Cuba
+158,NA1,Non-Annex I,26,Cuba
+159,AOSIS,Alliance of Small Island States,26,Cuba
+160,ALBA,Bolivarian Alliance for the Peoples of our America,26,Cuba
+161,NAC,"North America, Central America and the Caribbean",26,Cuba
+162,EEG,Eastern European Group,27,Czech Republic
+163,DdC,Developed Countries,27,Czech Republic
+164,OCDE,OECD,27,Czech Republic
+165,A1,Annex I,27,Czech Republic
+166,EU,European Union,27,Czech Republic
+167,EUR,Europe,27,Czech Republic
+168,WEOG,Western Europe and Other States Group,28,Denmark
+169,DdC,Developed Countries,28,Denmark
+170,OCDE,OECD,28,Denmark
+171,A1,Annex I,28,Denmark
+172,EU,European Union,28,Denmark
+173,EUR,Europe,28,Denmark
+174,GRULAC,Latin American and Caribbean Group,29,Ecuador
+175,DgE,Developing Economies,29,Ecuador
+176,G77,G77,29,Ecuador
+177,NA1,Non-Annex I,29,Ecuador
+178,CfRN,Coalition of Rainforest Nations,29,Ecuador
+179,OPEC,Organization of the Petroleum Exporting Countries,29,Ecuador
+180,ALBA,Bolivarian Alliance for the Peoples of our America,29,Ecuador
+181,SAM,South America,29,Ecuador
+182,AG,African Group,30,Egypt
+183,DgE,Developing Economies,30,Egypt
+184,G77,G77,30,Egypt
+185,NA1,Non-Annex I,30,Egypt
+186,LAS,League of Arab States,30,Egypt
+187,OIF,Organisation Internationale de la Francophonie,30,Egypt
+188,AFR,Africa,30,Egypt
+195,AG,African Group,32,Ethiopia
+196,DgE,Developing Economies,32,Ethiopia
+197,G77,G77,32,Ethiopia
+198,NA1,Non-Annex I,32,Ethiopia
+199,LDCs,NULL,32,Ethiopia
+200,AFR,Africa,32,Ethiopia
+201,APG,Asian-Pacific Group,33,Fiji
+202,G77,G77,33,Fiji
+203,NA1,Non-Annex I,33,Fiji
+204,AOSIS,Alliance of Small Island States,33,Fiji
+205,CfRN,Coalition of Rainforest Nations,33,Fiji
+206,SWP,South-West Pacific,33,Fiji
+207,WEOG,Western Europe and Other States Group,34,Finland
+208,DdC,Developed Countries,34,Finland
+209,OCDE,OECD,34,Finland
+210,A1,Annex I,34,Finland
+211,EU,European Union,34,Finland
+212,EUR,Europe,34,Finland
+213,WEOG,Western Europe and Other States Group,35,France
+214,DdC,Developed Countries,35,France
+215,OCDE,OECD,35,France
+216,G8,G8,35,France
+217,G20,G20,35,France
+218,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,35,France
+219,A1,Annex I,35,France
+220,EU,European Union,35,France
+221,OIF,Organisation Internationale de la Francophonie,35,France
+222,EUR,Europe,35,France
+223,WEOG,Western Europe and Other States Group,36,Germany
+224,DdC,Developed Countries,36,Germany
+225,OCDE,OECD,36,Germany
+226,G8,G8,36,Germany
+227,G20,G20,36,Germany
+228,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,36,Germany
+229,A1,Annex I,36,Germany
+230,EU,European Union,36,Germany
+231,EUR,Europe,36,Germany
+232,AG,African Group,37,Ghana
+233,DgE,Developing Economies,37,Ghana
+234,G77,G77,37,Ghana
+235,NA1,Non-Annex I,37,Ghana
+236,CfRN,Coalition of Rainforest Nations,37,Ghana
+237,OIF,Organisation Internationale de la Francophonie,37,Ghana
+238,AFR,Africa,37,Ghana
+239,WEOG,Western Europe and Other States Group,38,Greece
+240,DdC,Developed Countries,38,Greece
+241,OCDE,OECD,38,Greece
+242,A1,Annex I,38,Greece
+243,EU,European Union,38,Greece
+244,OIF,Organisation Internationale de la Francophonie,38,Greece
+245,EUR,Europe,38,Greece
+246,GRULAC,Latin American and Caribbean Group,39,Guatemala
+247,DgE,Developing Economies,39,Guatemala
+248,G77,G77,39,Guatemala
+249,NA1,Non-Annex I,39,Guatemala
+250,CfRN,Coalition of Rainforest Nations,39,Guatemala
+251,AILAC,Alliance of Latin America and the Caribbean,39,Guatemala
+252,NAC,"North America, Central America and the Caribbean",39,Guatemala
+260,APG,Asian-Pacific Group,41,Hong Kong
+261,DgE,Developing Economies,41,Hong Kong
+262,ASI,Asia,41,Hong Kong
+263,EEG,Eastern European Group,42,Hungary
+264,DdC,Developed Countries,42,Hungary
+265,OCDE,OECD,42,Hungary
+266,A1,Annex I,42,Hungary
+267,EU,European Union,42,Hungary
+268,EUR,Europe,42,Hungary
+269,WEOG,Western Europe and Other States Group,43,Iceland
+270,DdC,Developed Countries,43,Iceland
+271,OCDE,OECD,43,Iceland
+272,A1,Annex I,43,Iceland
+273,UG,Umbrella Group,43,Iceland
+274,EUR,Europe,43,Iceland
+275,APG,Asian-Pacific Group,44,India
+276,DgE,Developing Economies,44,India
+277,BRICS,BRICS,44,India
+278,G20,G20,44,India
+279,G77,G77,44,India
+280,NA1,Non-Annex I,44,India
+281,ASI,Asia,44,India
+282,APG,Asian-Pacific Group,45,Indonesia
+283,DgE,Developing Economies,45,Indonesia
+284,G20,G20,45,Indonesia
+285,G77,G77,45,Indonesia
+286,NA1,Non-Annex I,45,Indonesia
+287,CfRN,Coalition of Rainforest Nations,45,Indonesia
+288,SWP,South-West Pacific,45,Indonesia
+289,APG,Asian-Pacific Group,46,Iran
+290,DgE,Developing Economies,46,Iran
+291,G77,G77,46,Iran
+292,NA1,Non-Annex I,46,Iran
+293,OPEC,Organization of the Petroleum Exporting Countries,46,Iran
+294,ASI,Asia,46,Iran
+295,WEOG,Western Europe and Other States Group,47,Ireland
+296,DdC,Developed Countries,47,Ireland
+297,OCDE,OECD,47,Ireland
+298,A1,Annex I,47,Ireland
+299,EU,European Union,47,Ireland
+300,EUR,Europe,47,Ireland
+301,WEOG,Western Europe and Other States Group,48,Israel
+302,DgE,Developing Economies,48,Israel
+303,OCDE,OECD,48,Israel
+304,NA1,Non-Annex I,48,Israel
+305,EUR,Europe,48,Israel
+306,WEOG,Western Europe and Other States Group,49,Italy
+307,DdC,Developed Countries,49,Italy
+308,OCDE,OECD,49,Italy
+309,G8,G8,49,Italy
+310,G20,G20,49,Italy
+311,A1,Annex I,49,Italy
+312,EU,European Union,49,Italy
+313,EUR,Europe,49,Italy
+314,GRULAC,Latin American and Caribbean Group,50,Jamaica
+315,DgE,Developing Economies,50,Jamaica
+316,G77,G77,50,Jamaica
+317,NA1,Non-Annex I,50,Jamaica
+318,AOSIS,Alliance of Small Island States,50,Jamaica
+319,NAC,"North America, Central America and the Caribbean",50,Jamaica
+320,APG,Asian-Pacific Group,51,Japan
+321,DdC,Developed Countries,51,Japan
+322,OCDE,OECD,51,Japan
+323,G8,G8,51,Japan
+324,G20,G20,51,Japan
+325,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,51,Japan
+326,A1,Annex I,51,Japan
+327,UG,Umbrella Group,51,Japan
+328,ASI,Asia,51,Japan
+329,APG,Asian-Pacific Group,52,Kazakhstan
+330,EiT,Economies in Transition,52,Kazakhstan
+331,NA1,Non-Annex I,52,Kazakhstan
+332,CACAM,"Central Asia, Caucasus and Moldova",52,Kazakhstan
+333,ASI,Asia,52,Kazakhstan
+334,AG,African Group,53,Kenya
+335,DgE,Developing Economies,53,Kenya
+336,G77,G77,53,Kenya
+337,NA1,Non-Annex I,53,Kenya
+338,CfRN,Coalition of Rainforest Nations,53,Kenya
+339,AFR,Africa,53,Kenya
+345,APG,Asian-Pacific Group,55,Kuwait
+346,DgE,Developing Economies,55,Kuwait
+347,G77,G77,55,Kuwait
+348,NA1,Non-Annex I,55,Kuwait
+349,OPEC,Organization of the Petroleum Exporting Countries,55,Kuwait
+350,LAS,League of Arab States,55,Kuwait
+351,ASI,Asia,55,Kuwait
+352,APG,Asian-Pacific Group,56,Laos
+353,G77,G77,56,Laos
+354,NA1,Non-Annex I,56,Laos
+355,LDCs,NULL,56,Laos
+356,OIF,Organisation Internationale de la Francophonie,56,Laos
+357,ASI,Asia,56,Laos
+358,EEG,Eastern European Group,57,Lithuania
+359,DdC,Developed Countries,57,Lithuania
+360,A1,Annex I,57,Lithuania
+361,EU,European Union,57,Lithuania
+362,EUR,Europe,57,Lithuania
+363,AG,African Group,58,Madagascar
+364,DgE,Developing Economies,58,Madagascar
+365,G77,G77,58,Madagascar
+366,NA1,Non-Annex I,58,Madagascar
+367,LDCs,NULL,58,Madagascar
+368,CfRN,Coalition of Rainforest Nations,58,Madagascar
+369,OIF,Organisation Internationale de la Francophonie,58,Madagascar
+370,AFR,Africa,58,Madagascar
+371,AG,African Group,59,Malawi
+372,DgE,Developing Economies,59,Malawi
+373,G77,G77,59,Malawi
+374,NA1,Non-Annex I,59,Malawi
+375,LDCs,NULL,59,Malawi
+376,AFR,Africa,59,Malawi
+377,APG,Asian-Pacific Group,60,Malaysia
+378,DgE,Developing Economies,60,Malaysia
+379,G77,G77,60,Malaysia
+380,NA1,Non-Annex I,60,Malaysia
+381,CfRN,Coalition of Rainforest Nations,60,Malaysia
+382,SWP,South-West Pacific,60,Malaysia
+383,APG,Asian-Pacific Group,61,Maldives
+384,G77,G77,61,Maldives
+385,NA1,Non-Annex I,61,Maldives
+386,AOSIS,Alliance of Small Island States,61,Maldives
+387,ASI,Asia,61,Maldives
+388,WEOG,Western Europe and Other States Group,62,Malta
+389,DdC,Developed Countries,62,Malta
+390,A1,Annex I,62,Malta
+391,AOSIS,Alliance of Small Island States,62,Malta
+392,EU,European Union,62,Malta
+393,EUR,Europe,62,Malta
+394,AG,African Group,63,Mauritius
+395,DgE,Developing Economies,63,Mauritius
+396,G77,G77,63,Mauritius
+397,NA1,Non-Annex I,63,Mauritius
+398,AOSIS,Alliance of Small Island States,63,Mauritius
+399,OIF,Organisation Internationale de la Francophonie,63,Mauritius
+400,AFR,Africa,63,Mauritius
+401,GRULAC,Latin American and Caribbean Group,64,Mexico
+402,DgE,Developing Economies,64,Mexico
+403,OCDE,OECD,64,Mexico
+404,G20,G20,64,Mexico
+405,NA1,Non-Annex I,64,Mexico
+406,EIG,Environmental Integrity Group,64,Mexico
+407,NAC,"North America, Central America and the Caribbean",64,Mexico
+408,EEG,Eastern European Group,65,Moldova
+409,EiT,Economies in Transition,65,Moldova
+410,NA1,Non-Annex I,65,Moldova
+411,CACAM,"Central Asia, Caucasus and Moldova",65,Moldova
+412,OIF,Organisation Internationale de la Francophonie,65,Moldova
+413,EUR,Europe,65,Moldova
+414,WEOG,Western Europe and Other States Group,66,Monaco
+415,A1,Annex I,66,Monaco
+416,EIG,Environmental Integrity Group,66,Monaco
+417,OIF,Organisation Internationale de la Francophonie,66,Monaco
+418,EUR,Europe,66,Monaco
+421,APG,Asian-Pacific Group,68,Mongolia
+422,G77,G77,68,Mongolia
+423,NA1,Non-Annex I,68,Mongolia
+424,ASI,Asia,68,Mongolia
+425,AG,African Group,69,Morocco
+426,DgE,Developing Economies,69,Morocco
+427,G77,G77,69,Morocco
+428,NA1,Non-Annex I,69,Morocco
+429,LAS,League of Arab States,69,Morocco
+430,OIF,Organisation Internationale de la Francophonie,69,Morocco
+431,AFR,Africa,69,Morocco
+432,AG,African Group,70,Mozambique
+433,DgE,Developing Economies,70,Mozambique
+434,G77,G77,70,Mozambique
+435,NA1,Non-Annex I,70,Mozambique
+436,LDCs,NULL,70,Mozambique
+437,AFR,Africa,70,Mozambique
+438,AG,African Group,71,Namibia
+439,DgE,Developing Economies,71,Namibia
+440,G77,G77,71,Namibia
+441,NA1,Non-Annex I,71,Namibia
+442,AFR,Africa,71,Namibia
+443,APG,Asian-Pacific Group,72,Nepal
+444,DgE,Developing Economies,72,Nepal
+445,G77,G77,72,Nepal
+446,NA1,Non-Annex I,72,Nepal
+447,LDCs,NULL,72,Nepal
+448,ASI,Asia,72,Nepal
+449,WEOG,Western Europe and Other States Group,73,New Zealand
+450,DdC,Developed Countries,73,New Zealand
+451,OCDE,OECD,73,New Zealand
+452,A1,Annex I,73,New Zealand
+453,UG,Umbrella Group,73,New Zealand
+454,SWP,South-West Pacific,73,New Zealand
+455,AG,African Group,74,Nigeria
+456,DgE,Developing Economies,74,Nigeria
+457,G77,G77,74,Nigeria
+458,NA1,Non-Annex I,74,Nigeria
+459,CfRN,Coalition of Rainforest Nations,74,Nigeria
+460,OPEC,Organization of the Petroleum Exporting Countries,74,Nigeria
+461,AFR,Africa,74,Nigeria
+462,WEOG,Western Europe and Other States Group,75,Norway
+463,DdC,Developed Countries,75,Norway
+464,OCDE,OECD,75,Norway
+465,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,75,Norway
+466,A1,Annex I,75,Norway
+467,UG,Umbrella Group,75,Norway
+468,EUR,Europe,75,Norway
+469,APG,Asian-Pacific Group,76,Oman
+470,DgE,Developing Economies,76,Oman
+471,G77,G77,76,Oman
+472,NA1,Non-Annex I,76,Oman
+473,LAS,League of Arab States,76,Oman
+474,ASI,Asia,76,Oman
+475,APG,Asian-Pacific Group,77,Qatar
+476,ASI,Asia,77,Qatar
+477,APG,Asian-Pacific Group,78,Pakistan
+478,DgE,Developing Economies,78,Pakistan
+479,G77,G77,78,Pakistan
+480,NA1,Non-Annex I,78,Pakistan
+481,CfRN,Coalition of Rainforest Nations,78,Pakistan
+482,ASI,Asia,78,Pakistan
+483,APG,Asian-Pacific Group,79,Papua New Guinea
+484,DgE,Developing Economies,79,Papua New Guinea
+485,G77,G77,79,Papua New Guinea
+486,NA1,Non-Annex I,79,Papua New Guinea
+487,CfRN,Coalition of Rainforest Nations,79,Papua New Guinea
+488,SWP,South-West Pacific,79,Papua New Guinea
+489,GRULAC,Latin American and Caribbean Group,80,Peru
+490,DgE,Developing Economies,80,Peru
+491,G77,G77,80,Peru
+492,NA1,Non-Annex I,80,Peru
+493,AILAC,Alliance of Latin America and the Caribbean,80,Peru
+494,SAM,South America,80,Peru
+495,APG,Asian-Pacific Group,81,Philippines
+496,DgE,Developing Economies,81,Philippines
+497,G77,G77,81,Philippines
+498,NA1,Non-Annex I,81,Philippines
+499,SWP,South-West Pacific,81,Philippines
+500,EEG,Eastern European Group,82,Poland
+501,DdC,Developed Countries,82,Poland
+502,OCDE,OECD,82,Poland
+503,A1,Annex I,82,Poland
+504,EU,European Union,82,Poland
+505,EUR,Europe,82,Poland
+506,WEOG,Western Europe and Other States Group,83,Portugal
+507,DdC,Developed Countries,83,Portugal
+508,OCDE,OECD,83,Portugal
+509,A1,Annex I,83,Portugal
+510,EU,European Union,83,Portugal
+511,EUR,Europe,83,Portugal
+512,GRULAC,Latin American and Caribbean Group,84,Puerto Rico
+513,AOSIS,Alliance of Small Island States,84,Puerto Rico
+514,NAC,"North America, Central America and the Caribbean",84,Puerto Rico
+515,EEG,Eastern European Group,85,Romania
+516,DdC,Developed Countries,85,Romania
+517,A1,Annex I,85,Romania
+518,EU,European Union,85,Romania
+519,OIF,Organisation Internationale de la Francophonie,85,Romania
+520,EUR,Europe,85,Romania
+521,EEG,Eastern European Group,86,Russian Federation
+522,EiT,Economies in Transition,86,Russian Federation
+523,BRICS,BRICS,86,Russian Federation
+524,G8,G8,86,Russian Federation
+525,G20,G20,86,Russian Federation
+526,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,86,Russian Federation
+527,A1,Annex I,86,Russian Federation
+528,UG,Umbrella Group,86,Russian Federation
+529,EUR,Europe,86,Russian Federation
+530,APG,Asian-Pacific Group,87,Samoa
+531,G77,G77,87,Samoa
+532,NA1,Non-Annex I,87,Samoa
+533,LDCs,NULL,87,Samoa
+534,AOSIS,Alliance of Small Island States,87,Samoa
+535,CfRN,Coalition of Rainforest Nations,87,Samoa
+536,SWP,South-West Pacific,87,Samoa
+537,APG,Asian-Pacific Group,88,Saudi Arabia
+538,DgE,Developing Economies,88,Saudi Arabia
+539,G20,G20,88,Saudi Arabia
+540,G77,G77,88,Saudi Arabia
+541,NA1,Non-Annex I,88,Saudi Arabia
+542,OPEC,Organization of the Petroleum Exporting Countries,88,Saudi Arabia
+543,LAS,League of Arab States,88,Saudi Arabia
+544,ASI,Asia,88,Saudi Arabia
+545,AG,African Group,89,Senegal
+546,DgE,Developing Economies,89,Senegal
+547,G77,G77,89,Senegal
+548,NA1,Non-Annex I,89,Senegal
+549,LDCs,NULL,89,Senegal
+550,OIF,Organisation Internationale de la Francophonie,89,Senegal
+551,AFR,Africa,89,Senegal
+552,AG,African Group,90,Seychelles
+553,G77,G77,90,Seychelles
+554,NA1,Non-Annex I,90,Seychelles
+555,AOSIS,Alliance of Small Island States,90,Seychelles
+556,OIF,Organisation Internationale de la Francophonie,90,Seychelles
+557,AFR,Africa,90,Seychelles
+558,AG,African Group,91,Sierra Leone
+559,DgE,Developing Economies,91,Sierra Leone
+560,G77,G77,91,Sierra Leone
+561,NA1,Non-Annex I,91,Sierra Leone
+562,LDCs,NULL,91,Sierra Leone
+563,CfRN,Coalition of Rainforest Nations,91,Sierra Leone
+564,AFR,Africa,91,Sierra Leone
+565,APG,Asian-Pacific Group,92,Singapore
+566,DgE,Developing Economies,92,Singapore
+567,G77,G77,92,Singapore
+568,NA1,Non-Annex I,92,Singapore
+569,AOSIS,Alliance of Small Island States,92,Singapore
+570,SWP,South-West Pacific,92,Singapore
+571,EEG,Eastern European Group,93,Slovakia
+572,DdC,Developed Countries,93,Slovakia
+573,OCDE,OECD,93,Slovakia
+574,A1,Annex I,93,Slovakia
+575,EU,European Union,93,Slovakia
+576,EUR,Europe,93,Slovakia
+577,EEG,Eastern European Group,94,Slovenia
+578,DdC,Developed Countries,94,Slovenia
+579,OCDE,OECD,94,Slovenia
+580,A1,Annex I,94,Slovenia
+581,EU,European Union,94,Slovenia
+582,EUR,Europe,94,Slovenia
+583,AG,African Group,95,South Africa
+584,DgE,Developing Economies,95,South Africa
+585,BRICS,BRICS,95,South Africa
+586,G20,G20,95,South Africa
+587,G77,G77,95,South Africa
+588,NA1,Non-Annex I,95,South Africa
+589,AFR,Africa,95,South Africa
+590,APG,Asian-Pacific Group,96,South Korea
+591,DgE,Developing Economies,96,South Korea
+592,OCDE,OECD,96,South Korea
+593,G20,G20,96,South Korea
+594,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,96,South Korea
+595,NA1,Non-Annex I,96,South Korea
+596,EIG,Environmental Integrity Group,96,South Korea
+597,ASI,Asia,96,South Korea
+598,WEOG,Western Europe and Other States Group,97,Spain
+599,DdC,Developed Countries,97,Spain
+600,OCDE,OECD,97,Spain
+601,A1,Annex I,97,Spain
+602,EU,European Union,97,Spain
+603,EUR,Europe,97,Spain
+604,APG,Asian-Pacific Group,98,Sri Lanka
+605,DgE,Developing Economies,98,Sri Lanka
+606,G77,G77,98,Sri Lanka
+607,NA1,Non-Annex I,98,Sri Lanka
+608,ASI,Asia,98,Sri Lanka
+609,AG,African Group,99,Sudan
+610,DgE,Developing Economies,99,Sudan
+611,G77,G77,99,Sudan
+612,NA1,Non-Annex I,99,Sudan
+613,LDCs,NULL,99,Sudan
+614,LAS,League of Arab States,99,Sudan
+615,AFR,Africa,99,Sudan
+618,WEOG,Western Europe and Other States Group,101,Sweden
+619,DdC,Developed Countries,101,Sweden
+620,OCDE,OECD,101,Sweden
+621,A1,Annex I,101,Sweden
+622,EU,European Union,101,Sweden
+623,EUR,Europe,101,Sweden
+624,WEOG,Western Europe and Other States Group,102,Switzerland
+625,DdC,Developed Countries,102,Switzerland
+626,OCDE,OECD,102,Switzerland
+627,A1,Annex I,102,Switzerland
+628,EIG,Environmental Integrity Group,102,Switzerland
+629,OIF,Organisation Internationale de la Francophonie,102,Switzerland
+630,EUR,Europe,102,Switzerland
+631,APG,Asian-Pacific Group,103,Taiwan
+632,DgE,Developing Economies,103,Taiwan
+633,ASI,Asia,103,Taiwan
+634,AG,African Group,104,Tanzania
+635,DgE,Developing Economies,104,Tanzania
+636,G77,G77,104,Tanzania
+637,NA1,Non-Annex I,104,Tanzania
+638,LDCs,NULL,104,Tanzania
+639,AFR,Africa,104,Tanzania
+640,APG,Asian-Pacific Group,105,Thailand
+641,DdC,Developed Countries,105,Thailand
+642,G77,G77,105,Thailand
+643,NA1,Non-Annex I,105,Thailand
+644,CfRN,Coalition of Rainforest Nations,105,Thailand
+645,ASI,Asia,105,Thailand
+646,AG,African Group,106,The Gambia
+647,DgE,Developing Economies,106,The Gambia
+648,G77,G77,106,The Gambia
+649,NA1,Non-Annex I,106,The Gambia
+650,LDCs,NULL,106,The Gambia
+651,AFR,Africa,106,The Gambia
+652,WEOG,Western Europe and Other States Group,107,Netherlands
+653,DdC,Developed Countries,107,Netherlands
+654,OCDE,OECD,107,Netherlands
+655,A1,Annex I,107,Netherlands
+656,AOSIS,Alliance of Small Island States,107,Netherlands
+657,EU,European Union,107,Netherlands
+658,EUR,Europe,107,Netherlands
+666,GRULAC,Latin American and Caribbean Group,109,Trinidad and Tobago
+667,DgE,Developing Economies,109,Trinidad and Tobago
+668,G77,G77,109,Trinidad and Tobago
+669,NA1,Non-Annex I,109,Trinidad and Tobago
+670,AOSIS,Alliance of Small Island States,109,Trinidad and Tobago
+671,NAC,"North America, Central America and the Caribbean",109,Trinidad and Tobago
+672,AG,African Group,110,Tunisia
+673,DgE,Developing Economies,110,Tunisia
+674,G77,G77,110,Tunisia
+675,NA1,Non-Annex I,110,Tunisia
+676,LAS,League of Arab States,110,Tunisia
+677,OIF,Organisation Internationale de la Francophonie,110,Tunisia
+678,AFR,Africa,110,Tunisia
+679,WEOG,Western Europe and Other States Group,111,Turkey
+680,DgE,Developing Economies,111,Turkey
+681,OCDE,OECD,111,Turkey
+682,G20,G20,111,Turkey
+683,A1,Annex I,111,Turkey
+684,EUR,Europe,111,Turkey
+685,APG,Asian-Pacific Group,112,Turkmenistan
+686,EiT,Economies in Transition,112,Turkmenistan
+687,G77,G77,112,Turkmenistan
+688,NA1,Non-Annex I,112,Turkmenistan
+689,CACAM,"Central Asia, Caucasus and Moldova",112,Turkmenistan
+690,ASI,Asia,112,Turkmenistan
+691,WEOG,Western Europe and Other States Group,113,USA
+692,DdC,Developed Countries,113,USA
+693,OCDE,OECD,113,USA
+694,G8,G8,113,USA
+695,G20,G20,113,USA
+696,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,113,USA
+697,A1,Annex I,113,USA
+698,UG,Umbrella Group,113,USA
+699,NAC,"North America, Central America and the Caribbean",113,USA
+700,EEG,Eastern European Group,114,USSR
+701,EiT,Economies in Transition,114,USSR
+702,BRICS,BRICS,114,USSR
+703,G8,G8,114,USSR
+704,G20,G20,114,USSR
+705,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,114,USSR
+706,A1,Annex I,114,USSR
+707,UG,Umbrella Group,114,USSR
+708,EUR,Europe,114,USSR
+709,AG,African Group,115,Uganda
+710,DgE,Developing Economies,115,Uganda
+711,G77,G77,115,Uganda
+712,NA1,Non-Annex I,115,Uganda
+713,LDCs,NULL,115,Uganda
+714,CfRN,Coalition of Rainforest Nations,115,Uganda
+715,AFR,Africa,115,Uganda
+716,EEG,Eastern European Group,116,Ukraine
+717,EiT,Economies in Transition,116,Ukraine
+718,A1,Annex I,116,Ukraine
+719,UG,Umbrella Group,116,Ukraine
+720,EUR,Europe,116,Ukraine
+721,WEOG,Western Europe and Other States Group,117,United Kingdom
+722,DdC,Developed Countries,117,United Kingdom
+723,OCDE,OECD,117,United Kingdom
+724,G8,G8,117,United Kingdom
+725,G20,G20,117,United Kingdom
+726,AOGCM,Countries with Coupled Atmosphere-Ocean Global Climate Models,117,United Kingdom
+727,A1,Annex I,117,United Kingdom
+728,EU,European Union,117,United Kingdom
+729,EUR,Europe,117,United Kingdom
+730,GRULAC,Latin American and Caribbean Group,118,Uruguay
+731,DgE,Developing Economies,118,Uruguay
+732,G77,G77,118,Uruguay
+733,NA1,Non-Annex I,118,Uruguay
+734,CfRN,Coalition of Rainforest Nations,118,Uruguay
+735,SAM,South America,118,Uruguay
+736,APG,Asian-Pacific Group,119,Uzbekistan
+737,EiT,Economies in Transition,119,Uzbekistan
+738,NA1,Non-Annex I,119,Uzbekistan
+739,CACAM,"Central Asia, Caucasus and Moldova",119,Uzbekistan
+740,ASI,Asia,119,Uzbekistan
+741,GRULAC,Latin American and Caribbean Group,120,Venezuela
+742,DgE,Developing Economies,120,Venezuela
+743,G77,G77,120,Venezuela
+744,NA1,Non-Annex I,120,Venezuela
+745,OPEC,Organization of the Petroleum Exporting Countries,120,Venezuela
+746,AILAC,Alliance of Latin America and the Caribbean,120,Venezuela
+747,SAM,South America,120,Venezuela
+748,APG,Asian-Pacific Group,121,Vietnam
+749,DgE,Developing Economies,121,Vietnam
+750,G77,G77,121,Vietnam
+751,NA1,Non-Annex I,121,Vietnam
+752,CfRN,Coalition of Rainforest Nations,121,Vietnam
+753,OIF,Organisation Internationale de la Francophonie,121,Vietnam
+754,ASI,Asia,121,Vietnam
+755,AG,African Group,122,Zambia
+756,DgE,Developing Economies,122,Zambia
+757,G77,G77,122,Zambia
+758,NA1,Non-Annex I,122,Zambia
+759,LDCs,NULL,122,Zambia
+760,AFR,Africa,122,Zambia
+761,AG,African Group,123,Zimbabwe
+762,DgE,Developing Economies,123,Zimbabwe
+763,G77,G77,123,Zimbabwe
+764,NA1,Non-Annex I,123,Zimbabwe
+765,AFR,Africa,123,Zimbabwe
+766,NAC,"North America, Central America and the Caribbean",124,Bahamas
+767,AOSIS,Alliance of Small Island States,124,Bahamas
+768,NA1,Non-Annex I,124,Bahamas
+769,GRULAC,Latin American and Caribbean Group,124,Bahamas
+770,DdC,Developed Countries,124,Bahamas
+771,AG,African Group,127,Mali
+772,AFR,Africa,127,Mali
+773,DgE,Developing Economies,127,Mali
+774,NA1,Non-Annex I,127,Mali
+775,LCDs,Least Developed Countries,127,Mali
+776,OIF,Organisation Internationale de la Francophonie,127,Mali
+
